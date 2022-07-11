@@ -1,16 +1,14 @@
 # middle_english_1000
 
-A new Flutter project.
+중학 필수 영단어 1000
 
-## Getting Started
+## Dark Mode
 
-This project is a starting point for a Flutter application.
+Hive
 
-A few resources to get you started if this is your first Flutter project:
+## sqlite
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+drift
+```
+flutter pub run build_runner build
+```
