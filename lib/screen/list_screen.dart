@@ -27,7 +27,7 @@ class _ListScreenState extends State<ListScreen> {
   startApp() async {
     if (title == null) title = '1~100';
     await tts.setLanguage('en');
-    await tts.setSpeechRate(0.4);
+    await tts.setSpeechRate(0.5);
   }
 
   @override

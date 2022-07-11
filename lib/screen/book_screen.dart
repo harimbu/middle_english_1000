@@ -19,7 +19,7 @@ class _BookScreenState extends State<BookScreen> {
 
   startApp() async {
     await tts.setLanguage('en');
-    await tts.setSpeechRate(0.4);
+    await tts.setSpeechRate(0.5);
   }
 
   @override
